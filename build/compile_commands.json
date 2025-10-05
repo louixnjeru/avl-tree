@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/louixnjeru/Documents/avl-tree/build",
+  "command": "/usr/bin/clang++  -I/Users/louixnjeru/Documents/avl-tree/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/louixnjeru/Documents/avl-tree/src/main.cpp",
+  "file": "/Users/louixnjeru/Documents/avl-tree/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]
